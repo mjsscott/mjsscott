@@ -2,7 +2,7 @@
 
 I am a creative Full-Stack Developer, motivated by a desire for learning and ambition for self-improvement. I'm always striving to pick up new skills inside and outside the world of coding.
 
-🌟 I'm honing my skills and embracing new technologies to stay at the forefront of the industry.
+🌟 I'm leveling up my skills and diving into new technologies to stay ahead in the tech game!
 
 💼 My projects, showcasing a blend of experience and innovation, are available at [My GitHub]([https://github.com/[your_username]](https://github.com/mjsscott)).
 
@@ -34,7 +34,7 @@ I am a creative Full-Stack Developer, motivated by a desire for learning and amb
 
 | Project Name | Tech Stack           | Repo                          |
 |--------------|----------------------|-------------------------------|
-| EZ-Daily     | React, Express, MongoDB | [GitHub](https://github.com/mjsscott/EZ-Daily)) | 
+| EZ-Daily     | React, Express, MongoDB | [GitHub](https://github.com/mjsscott/EZ-Daily) | 
 | Aqeuous      | React, Redux, MongoDB | [GitHub](https://github.com/stefan-butler/aqueous) |
 | Pet Adopt    | React, MongoDB, Jest | [GitHub](https://github.com/mjsscott/soloProject) |
 
