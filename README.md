@@ -4,7 +4,7 @@ I am a creative Full-Stack Developer, motivated by a desire for learning and amb
 
 🌟 I'm leveling up my skills and diving into new technologies to stay ahead in the tech game!
 
-💼 My projects, showcasing a blend of experience and innovation, are available at [My GitHub]([https://github.com/[your_username]](https://github.com/mjsscott)).
+💼 My projects, showcasing a blend of experience and innovation are available at [My GitHub]([https://github.com/[your_username]](https://github.com/mjsscott)).
 
 📩 Reach out to me at: mjsscottcodes@gmail.com
 
